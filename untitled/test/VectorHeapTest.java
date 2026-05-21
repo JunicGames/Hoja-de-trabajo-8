@@ -1,4 +1,7 @@
 import static org.junit.Assert.*;
+
+import heap.VectorHeap;
+import model.Paciente;
 import org.junit.Test;
 
 public class VectorHeapTest {

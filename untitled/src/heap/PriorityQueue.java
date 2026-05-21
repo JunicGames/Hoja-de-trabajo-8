@@ -1,3 +1,5 @@
+package heap;
+
 public interface PriorityQueue<E extends Comparable<E>> {
 
     public void add(E value);

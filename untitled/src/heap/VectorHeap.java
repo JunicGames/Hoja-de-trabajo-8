@@ -1,3 +1,5 @@
+package heap;
+
 import java.util.Vector;
 
 public class VectorHeap<E extends Comparable<E>> implements PriorityQueue<E> {
