@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"app","l":"main"},{"p":"app","l":"mainJavaCollectionFramework"},{"p":"model","l":"Paciente"},{"p":"heap","l":"PriorityQueue"},{"p":"heap","l":"VectorHeap"},{"p":"<Unnamed>","l":"VectorHeapTest"}];updateSearchResults();
